@@ -4,9 +4,9 @@
   window.onscroll = function() {
     var currentScrollPos = window.pageYOffset;
     if (prevScrollpos > currentScrollPos) {
-      document.getElementById("HD-2").classList.remove('show');
+      document.getElementByClass("HD-2 header").classList.remove('show');
     }
-    else { document.getElementById("HD-2").classList.add('show');
+    else { document.getElementByClass("HD-2 header").classList.add('show');
     }
     prevScrollpos = currentScrollPos;
   }
