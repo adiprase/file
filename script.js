@@ -6,7 +6,7 @@
     if (prevScrollpos > currentScrollPos) {
       document.getElementById("header").classList.remove('show');
     }
-    else { document.getElementById("header").classList.add('show');
+    else { document.getElementById("HD-2 header").classList.add('show');
     }
     prevScrollpos = currentScrollPos;
   }
