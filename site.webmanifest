@@ -1,1 +1,14 @@
-{"name":"web","short_name":"xdi","icons":[{"src":"https://i.postimg.cc/QCJCQPpP/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"https://i.postimg.cc/dVkvvphY/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#005555","background_color":"#ffffff","display":"standalone"}
+{
+    "name": "XDi - Website",
+    "short_name": "XDi - Website",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsfwGRPgQ2rPkxoCsRpp-E01p_d0cdD8u-HoojrY56QtVKJWSvg-s7eAtvo3enhEHppL6j4CRScM6tXf4XJy4MzuR6TbW6qCJTKi2-25lZB0_sTsNMSzzTsZCkpiQ114mPGVWkGFKYnHRsScz6LqP24-xqlc15sWNUPpUXiATJr_6zAsurGTEFKC-/s192/apple-touch-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
