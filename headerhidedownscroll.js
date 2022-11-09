@@ -67,3 +67,5 @@
 
       wScrollBefore = wScrollCurrent;
     }));
+
+}(document, window, 0));
