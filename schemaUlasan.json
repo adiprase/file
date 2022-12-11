@@ -1,0 +1,12 @@
+{
+  &quot;@context&quot;: &quot;https://schema.org/&quot;,
+  &quot;@type&quot;: &quot;Book&quot;,
+  &quot;name&quot;: &quot;Hexa&quot;,
+  &quot;aggregateRating&quot;: {
+    &quot;@type&quot;: &quot;AggregateRating&quot;,
+    &quot;ratingValue&quot;: &quot;5&quot;,
+    &quot;ratingCount&quot;: &quot;13599&quot;,
+    &quot;bestRating&quot;: &quot;5&quot;,
+    &quot;worstRating&quot;: &quot;1&quot;
+  }
+}
